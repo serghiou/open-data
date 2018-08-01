@@ -5,7 +5,16 @@
 A collection of all databases of readily available healthcare-related data I know of.
 
 
-## Repositories of multiple datasets
+
+## Single datasets
+
+* **[MIMIC](https://mimic.physionet.org/)** "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
+
+* **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
+
+
+
+## Collections of multiple datasets
 
 * **[Kaggle.](https://www.kaggle.com/datasets)** A collection of multiple highly valualbe healthcare-related datasets and competitions.
 
@@ -19,17 +28,11 @@ A collection of all databases of readily available healthcare-related data I kno
 
 * **[Global Health Observatory (GHO) data.](http://www.who.int/gho/database/en/)** "The GHO data repository contains an extensive list of indicators, which can be selected by theme or through a multi-dimension query functionality. It is the World Health Organization's main health statistics repository." Such data include adolescent birth rate data by country, suicide rate estimates and health workforce-related data. All data are ecological (i.e. across regions), not of individuals.
 
-
-## Specific datasets
-
-* **[MIMIC](https://mimic.physionet.org/)** "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
-
-* **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
-
 * **[Swedish National Data Service.](https://snd.gu.se/en/catalogue/search)** Use this website to search for studies of interest and then either directly download the data or, if not directly available, request the data for free from [here](https://snd.gu.se/en/catalogue/order-data). It is not currently clear whether access to raw data from multiple linked registries and not necessarily part of a study is readily available.
 
 
-## Organizations managing access to multiple datasets
+
+## Organizations managing access to multiple datasets (data request necessary)
 
 * **[Observational Health Data Sciences and Informatics.](https://www.ohdsi.org/)** A consortium attempting to bring many observational datasets from across the world together within a common data model. You can learn how to request data from OHDSI [here](https://www.ohdsi.org/wp-content/uploads/2016/10/NCI-OHDSI-instruction-manual2.pdf).
 
