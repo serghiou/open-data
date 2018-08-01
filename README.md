@@ -24,8 +24,14 @@ A collection of all databases of readily available healthcare-related data I kno
 
 * **[MIMIC](https://mimic.physionet.org/)** "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
 
+* **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
+
+* **[Swedish National Data Service.](https://snd.gu.se/en/catalogue/search)** Use this website to search for studies of interest and then either directly download the data or, if not directly available, request the data for free from [here](https://snd.gu.se/en/catalogue/order-data). It is not currently clear whether access to raw data from multiple linked registries and not necessarily part of a study is readily available.
+
 
 ## Organizations managing access to multiple datasets
+
+* **[Observational Health Data Sciences and Informatics.](https://www.ohdsi.org/)** A consortium attempting to bring many observational datasets from across the world together within a common data model. You can learn how to request data from OHDSI [here](https://www.ohdsi.org/wp-content/uploads/2016/10/NCI-OHDSI-instruction-manual2.pdf).
 
 * **[Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC).](https://biolincc.nhlbi.nih.gov/home/)** This provides researchers with online access to NHLBI biospecimen collections. Such data include data from the recent randomized-controlled trial SPRINT.
 
