@@ -14,6 +14,8 @@ A collection of all databases of readily available healthcare-related data I kno
 
 * **[SEER: Surveillance, Epidemiology and End-Results Program.](https://seer.cancer.gov/)** The Surveillance, Epidemiology, and End Results (SEER) Program provides information on cancer statistics in an effort to reduce the cancer burden among the U.S. population. They provide data about cancer statistics that can be super useful.
 
+* **[rcitoid.](https://github.com/ropenscilabs/rcitoid#rcitoid)** A client to the Citoid service, which collects citation data via Wikimedia.
+
 * **[younoodle.](https://younoodle.com/)** Even though  I have not used this, as far as I understand, they  offer a database of startups, which may be useful in research related to entrepreneurship and fields of medicine.
 
 
