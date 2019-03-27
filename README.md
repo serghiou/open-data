@@ -12,6 +12,8 @@ A collection of all databases of readily available healthcare-related data I kno
 
 * **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
 
+* **[SEER: Surveillance, Epidemiology and End-Results Program.](https://seer.cancer.gov/)** The Surveillance, Epidemiology, and End Results (SEER) Program provides information on cancer statistics in an effort to reduce the cancer burden among the U.S. population. They provide data about cancer statistics that can be super useful.
+
 * **[younoodle.](https://younoodle.com/)** Even though  I have not used this, as far as I understand, they  offer a database of startups, which may be useful in research related to entrepreneurship and fields of medicine.
 
 
