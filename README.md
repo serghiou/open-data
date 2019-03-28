@@ -8,15 +8,17 @@ A collection of all databases of readily available healthcare-related data I kno
 
 ## Single datasets
 
-* **[MIMIC](https://mimic.physionet.org/)** "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
+* **[MIMIC](https://mimic.physionet.org/)** Access: by request, within a week. "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
 
-* **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
+* **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** Access: by request, timeline unknown. This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
 
-* **[SEER: Surveillance, Epidemiology and End-Results Program.](https://seer.cancer.gov/)** The Surveillance, Epidemiology, and End Results (SEER) Program provides information on cancer statistics in an effort to reduce the cancer burden among the U.S. population. They provide data about cancer statistics that can be super useful.
+* **[SEER: Surveillance, Epidemiology and End-Results Program.](https://seer.cancer.gov/)** Access: openly available. The Surveillance, Epidemiology, and End Results (SEER) Program provides information on cancer statistics in an effort to reduce the cancer burden among the U.S. population. They provide data about cancer statistics that can be super useful.
 
-* **[rcitoid.](https://github.com/ropenscilabs/rcitoid#rcitoid)** A client to the Citoid service, which collects citation data via Wikimedia.
+* **[CALIBER.](https://www.ucl.ac.uk/health-informatics/caliber)** Access: by request, timeline unknown. As of March 2019, this is a dataset of the electronic health records of about 10 million patients from the UK. It is maintained by UCL and it is available upon request as detailed [here](https://www.ucl.ac.uk/health-informatics/caliber/accessing-caliber-resources).
 
-* **[younoodle.](https://younoodle.com/)** Even though  I have not used this, as far as I understand, they  offer a database of startups, which may be useful in research related to entrepreneurship and fields of medicine.
+* **[rcitoid.](https://github.com/ropenscilabs/rcitoid#rcitoid)** Access: openly available. A client to the Citoid service, which collects citations in Wikimedia.
+
+* **[younoodle.](https://younoodle.com/)** Access: unknown. Even though  I have not used this, as far as I understand, they  offer a database of startups, which may be useful in research related to entrepreneurship and fields of medicine.
 
 
 
@@ -24,7 +26,7 @@ A collection of all databases of readily available healthcare-related data I kno
 
 * **[Kaggle.](https://www.kaggle.com/datasets)** A collection of multiple highly valualbe healthcare-related datasets and competitions.
 
-* **[National Center for Health Statistics (NCHS).](https://www.cdc.gov/nchs/data_access/ftp_data.htm)** A collection of popular and high quality datasets, the most popular of which is National Health and Nutrition Examination Survey (NHANES).
+* **[National Center for Health Statistics (NCHS).](https://www.cdc.gov/nchs/data_access/ftp_data.htm)** Access: openly available. A collection of popular and high quality datasets, the most popular of which is National Health and Nutrition Examination Survey (NHANES).
 
 * **[IPUMS](https://www.ipums.org/)** "IPUMS provides census and survey data from around the world integrated across time and space. IPUMS integration and documentation makes it easy to study change, conduct comparative research, merge information across data types, and analyze individuals within family and community context. Data and services available free of charge." Some examples include IPUMS Global Health, which includes health survey data for Africa and Asia, and IPUMS Health Surveys, which contains historical and contemporary U.S. health survey data from NHIS (1963-present) and MEPS (1996-present).
 
@@ -40,8 +42,8 @@ A collection of all databases of readily available healthcare-related data I kno
 
 ## Organizations managing access to multiple datasets (data request necessary)
 
-* **[Observational Health Data Sciences and Informatics.](https://www.ohdsi.org/)** A consortium attempting to bring many observational datasets from across the world together within a common data model. You can learn how to request data from OHDSI [here](https://www.ohdsi.org/wp-content/uploads/2016/10/NCI-OHDSI-instruction-manual2.pdf).
+* **[Observational Health Data Sciences and Informatics.](https://www.ohdsi.org/)** Access: by request. A consortium attempting to bring many observational datasets from across the world together within a common data model. You can learn how to request data from OHDSI [here](https://www.ohdsi.org/wp-content/uploads/2016/10/NCI-OHDSI-instruction-manual2.pdf).
 
-* **[Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC).](https://biolincc.nhlbi.nih.gov/home/)** This provides researchers with online access to NHLBI biospecimen collections. Such data include data from the recent randomized-controlled trial SPRINT.
+* **[Biologic Specimen and Data Repository Information Coordinating Center (BioLINCC).](https://biolincc.nhlbi.nih.gov/home/)** Access: by request. This provides researchers with online access to NHLBI biospecimen collections. Such data include data from the recent randomized-controlled trial SPRINT.
 
 </div>
