@@ -16,6 +16,8 @@ A collection of all databases of readily available healthcare-related data I kno
 
 * **[CALIBER.](https://www.ucl.ac.uk/health-informatics/caliber)** Access: by request, timeline unknown. As of March 2019, this is a dataset of the electronic health records of about 10 million patients from the UK. It is maintained by UCL and it is available upon request as detailed [here](https://www.ucl.ac.uk/health-informatics/caliber/accessing-caliber-resources).
 
+* **[National Institute for Health Research Health Informatics Collaborative (NIHR HIC).](https://www.nihr.ac.uk/about-us/how-we-are-managed/our-structure/systems/research-information/health-Informatics-collaborative.htm)** Access: by request [here](https://www.nihr.ac.uk/about-us/contact-us/), timeline unknown. "The NIHR Health Informatics Collaborative (NIHR HIC) brings together five of the country's leading NHS Trusts with large NIHR Biomedical Research Centres - Oxford, Cambridge, University College, Imperial College, and Guy’s and St.Thomas’s - to make NHS clinical data more readily available to researchers, industry and the NHS community."
+
 * **[rcitoid.](https://github.com/ropenscilabs/rcitoid#rcitoid)** Access: openly available. A client to the Citoid service, which collects citations in Wikimedia.
 
 * **[younoodle.](https://younoodle.com/)** Access: unknown. Even though  I have not used this, as far as I understand, they  offer a database of startups, which may be useful in research related to entrepreneurship and fields of medicine.
