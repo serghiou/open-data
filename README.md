@@ -8,7 +8,7 @@ A collection of all databases of readily available healthcare-related data I kno
 
 ## Single datasets
 
-* **[MIMIC](https://mimic.physionet.org/)** Access: by request, within a week. "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
+* **[MIMIC.](https://mimic.physionet.org/)** Access: by request, within a week. "MIMIC is an openly available dataset developed by the MIT Lab for Computational Physiology, comprising deidentified health data associated with ~40,000 critical care patients. It includes demographics, vital signs, laboratory tests, medications, and more."
 
 * **[Korean National Health Insurance Database.](https://nhiss.nhis.or.kr/bd/ab/bdaba000eng.do)** Access: by request, timeline unknown. This database from South Korea provides deidentified claims, health screening data, and mortality data to researchers at minimal cost. A 2% sample (> 1 million individuals) can be downloaded from [here](https://nhiss.nhis.or.kr/bd/ab/bdaba022eng.do) and for full data access follow the guidelines at the end of page [here](https://nhiss.nhis.or.kr/bd/ab/bdaba032eng.do#). For a description of this database in the JAMA Internal Medicine click [here](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2479075).
 
@@ -17,6 +17,8 @@ A collection of all databases of readily available healthcare-related data I kno
 * **[CALIBER.](https://www.ucl.ac.uk/health-informatics/caliber)** Access: by request, timeline unknown. As of March 2019, this is a dataset of the electronic health records of about 10 million patients from the UK. It is maintained by UCL and it is available upon request as detailed [here](https://www.ucl.ac.uk/health-informatics/caliber/accessing-caliber-resources).
 
 * **[National Institute for Health Research Health Informatics Collaborative (NIHR HIC).](https://www.nihr.ac.uk/about-us/how-we-are-managed/our-structure/systems/research-information/health-Informatics-collaborative.htm)** Access: by request [here](https://www.nihr.ac.uk/about-us/contact-us/), timeline unknown. "The NIHR Health Informatics Collaborative (NIHR HIC) brings together five of the country's leading NHS Trusts with large NIHR Biomedical Research Centres - Oxford, Cambridge, University College, Imperial College, and Guy’s and St.Thomas’s - to make NHS clinical data more readily available to researchers, industry and the NHS community."
+
+* **[MESA.](https://www.mesa-nhlbi.org/default.aspx)** Access: openly available. A great overview of the population of the USA sample of 6,000 for cardiovascular disease - great for confirming generalizability and representatitiveness of samples. Suggested by Basu.
 
 * **[rcitoid.](https://github.com/ropenscilabs/rcitoid#rcitoid)** Access: openly available. A client to the Citoid service, which collects citations in Wikimedia.
 
